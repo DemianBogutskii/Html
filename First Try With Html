@@ -1,0 +1,27 @@
+#https://jsbin.com/jitadolazu/1/edit?html,output
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Hotdog</title>
+</head>
+<body bgcolor = ff99ff>
+  <h1 align = center>Hello</h1>
+  <h2 align = center>Welcome to this <i>website</i></h2>
+  <hr>
+  <pre>
+  <p text = 12ff99>
+  Iny mini miny moe
+  Catch the tiger by the toe</p>
+  <p align = center>If he howls let him go
+  Iny mini miny moe</p>
+  <p align = center>
+  Iny mini miny moe
+  Catch the tiger by the toe</p>
+  <p align = right>If he howls let him go
+  Iny mini miny moe</p>
+  </pre>
+</body>
+</html>
