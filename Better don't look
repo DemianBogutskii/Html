@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<marquee height = 50%><font face = Arial>Hello, <bdo dir = "RTL">everyone</bdo>! This is the LONGEST TEXT EVER!</marquee>
+<marquee direction = right><font color = red>I was inspired by the various other "longest texts ever" on the internet, and I wanted to make my own.</marquee>
+<marquee><hr color = orange width = 100 size = 20 align = center></marquee>
+<marquee width = 50%><font size = 7>So here it is! This is going to be a WORLD RECORD! This is actually my third attempt at doing this. The first time, I didn't save it. The second time, the Neocities editor crashed.</marquee>
+<marquee bgcolor = lightgreen><font color = darkgreen>Now I'm writing this in Notepad, then copying it into the Neocities editor instead of typing it directly in the Neocities editor to avoid crashing. It sucks that my past two attempts are gone now.</font></marquee>
+<marquee>Those actually got pretty long. Not the longest, but still pretty long.</marquee>
+<marquee height = 50%><font face = Arial>Hello, <bdo dir = "RTL">everyone</bdo>! This is the LONGEST TEXT EVER!</marquee>
+<marquee direction = right><font color = red>I was inspired by the various other "longest texts ever" on the internet, and I wanted to make my own.</marquee>
+<marquee><hr color = orange width = 100 size = 20 align = center></marquee>
+<marquee width = 50%><font size = 7>So here it is! This is going to be a WORLD RECORD! This is actually my third attempt at doing this. The first time, I didn't save it. The second time, the Neocities editor crashed.</marquee>
+<marquee bgcolor = lightgreen><font color = darkgreen>Now I'm writing this in Notepad, then copying it into the Neocities editor instead of typing it directly in the Neocities editor to avoid crashing. It sucks that my past two attempts are gone now.</font></marquee>
+<marquee>Those actually got pretty long. Not the longest, but still pretty long.</marquee>
+<marquee height = 50%><font face = Arial>Hello, <bdo dir = "RTL">everyone</bdo>! This is the LONGEST TEXT EVER!</marquee>
+<marquee direction = right><font color = red>I was inspired by the various other "longest texts ever" on the internet, and I wanted to make my own.</marquee>
+<marquee><hr color = orange width = 100 size = 20 align = center></marquee>
+<marquee width = 50%><font size = 7>So here it is! This is going to be a WORLD RECORD! This is actually my third attempt at doing this. The first time, I didn't save it. The second time, the Neocities editor crashed.</marquee>
+<marquee bgcolor = lightgreen><font color = darkgreen>Now I'm writing this in Notepad, then copying it into the Neocities editor instead of typing it directly in the Neocities editor to avoid crashing. It sucks that my past two attempts are gone now.</font></marquee>
+<p>Those actually got pretty long. Not the longest, but still pretty long.</p>
+</body>
+</html>
