@@ -24,5 +24,23 @@
     <li> Georgia
     <li> Florida
   </ul></font>
+  <font color = 08A40F><h1>My favorite school classes</h1>
+    <ol>
+      <li> Math
+      <li> Reading
+      <li> Coding
+    </ol>
+  <font color = EF66F1><h1>My favorite activities</h1>
+    <ol type = A>
+      <li> Reading
+      <li> Coding
+      <li> Hiking
+    </ol>
+  <font color = 666FF1 ><h1>My favorite books</h1>
+    <ol type = I>
+      <li> Solar Storm
+      <li> The Last Kids On Earth
+      <li> Adventure Academy
+    </ol>
 </body>
 </html>
